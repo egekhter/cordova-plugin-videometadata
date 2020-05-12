@@ -1,0 +1,36 @@
+{
+  "name": "cordova-plugin-videometadata",
+  "version": "0.0.1",
+  "description": "Cordova Plugin Video Metadata",
+  "homepage": "https://github.com/shahin8r/cordova-plugin-videometadata",
+  "author": {
+    "name": "shahin8r"
+  },
+  "license": "Apache-2.0",
+  "cordova": {
+    "id": "cordova-plugin-videometadata",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://https://github.com/egekhter/cordova-plugin-webserver"
+  },
+  "keywords": [
+    "cordova",
+    "ios",
+    "android",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova:plugin",
+    "video",
+    "metadata"
+  ],
+  "browser": {
+    "cordova": false
+  },
+  "dependencies": {
+  }
+}
